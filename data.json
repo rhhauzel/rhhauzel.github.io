@@ -1,0 +1,2172 @@
+{
+  "type": [
+    {
+      "part": "PART-I",
+      "description": "BUILDING",
+      "id": 1
+    },
+    {
+      "part": "PART-II",
+      "description": "MEMORIAL STONE/GRAVE",
+      "id": 2
+    },
+    {
+      "part": "PART-III",
+      "description": "PADDY CULTIVATION",
+      "id": 3
+    },
+    {
+      "part": "PART-IV",
+      "description": "LAND DEVELOPMENT",
+      "id": 4
+    },
+    {
+      "part": "PART-V",
+      "description": "FRUIT CROPS",
+      "id": 5
+    },
+    {
+      "part": "PART-VI",
+      "description": "VEGETABLE CROPS",
+      "id": 6
+    },
+    {
+      "part": "PART-VII",
+      "description": "PLANTATION CROPS",
+      "id": 7
+    }
+  ],
+  "FRUIT_CROP_SLAB": [
+    {
+      "upto45cm": {
+        "planted": "40",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "180",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "250",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "800",
+        "natural": "0"
+      },
+      "mature": "10000",
+      "id": 1
+    },
+    {
+      "upto45cm": {
+        "planted": "50",
+        "natural": "30"
+      },
+      "from45cmto1_0meter": {
+        "planted": "60",
+        "natural": "40"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "180",
+        "natural": "150"
+      },
+      "above1_5meter": {
+        "planted": "500",
+        "natural": "300"
+      },
+      "mature": "6000",
+      "id": 2
+    },
+    {
+      "upto45cm": {
+        "planted": "60",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "100",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "200",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "1000",
+        "natural": "0"
+      },
+      "mature": "10000",
+      "id": 3
+    },
+    {
+      "upto45cm": {
+        "planted": "50",
+        "natural": "30"
+      },
+      "from45cmto1_0meter": {
+        "planted": "70",
+        "natural": "50"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "200",
+        "natural": "170"
+      },
+      "above1_5meter": {
+        "planted": "700",
+        "natural": "350"
+      },
+      "mature": "8000",
+      "id": 4
+    },
+    {
+      "upto45cm": {
+        "planted": "50",
+        "natural": "30"
+      },
+      "from45cmto1_0meter": {
+        "planted": "60",
+        "natural": "40"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "160",
+        "natural": "120"
+      },
+      "above1_5meter": {
+        "planted": "400",
+        "natural": "250"
+      },
+      "mature": "4000",
+      "id": 5
+    },
+    {
+      "upto45cm": {
+        "planted": "50",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "60",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "250",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "500",
+        "natural": "0"
+      },
+      "mature": "4000",
+      "id": 6
+    },
+    {
+      "upto45cm": {
+        "planted": "5",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "8",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "10",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "30",
+        "natural": "0"
+      },
+      "mature": "200",
+      "id": 7
+    },
+    {
+      "upto45cm": {
+        "planted": "15",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "30",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "80",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "150",
+        "natural": "0"
+      },
+      "mature": "1000",
+      "id": 8
+    },
+    {
+      "upto45cm": {
+        "planted": "30",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "40",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "70",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "150",
+        "natural": "0"
+      },
+      "mature": "5000",
+      "id": 9
+    },
+    {
+      "upto45cm": {
+        "planted": "5",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "10",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "30",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "120",
+        "natural": "0"
+      },
+      "mature": "3000",
+      "id": 10
+    },
+    {
+      "upto45cm": {
+        "planted": "10",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "20",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "30",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "50",
+        "natural": "0"
+      },
+      "mature": "1500",
+      "id": 11
+    }
+  ],
+  "FRUIT_CROP": [
+    {
+      "name": "Orange",
+      "fruitCategory": "1",
+      "id": 1
+    },
+    {
+      "name": "Hatkora",
+      "fruitCategory": "1",
+      "id": 2
+    },
+    {
+      "name": "Sweet Orange (Sisu)",
+      "fruitCategory": "1",
+      "id": 3
+    },
+    {
+      "name": "Sermam",
+      "fruitCategory": "1",
+      "id": 4
+    },
+    {
+      "name": "Valencia",
+      "fruitCategory": "1",
+      "id": 5
+    },
+    {
+      "name": "Mozambique",
+      "fruitCategory": "1",
+      "id": 6
+    },
+    {
+      "name": "Lemon",
+      "fruitCategory": "1",
+      "id": 7
+    },
+    {
+      "name": "Lime",
+      "fruitCategory": "1",
+      "id": 8
+    },
+    {
+      "name": "Jackfruit",
+      "fruitCategory": "2",
+      "id": 9
+    },
+    {
+      "name": "Tamarind",
+      "fruitCategory": "2",
+      "id": 10
+    },
+    {
+      "name": "Guava",
+      "fruitCategory": "2",
+      "id": 11
+    },
+    {
+      "name": "Pear",
+      "fruitCategory": "2",
+      "id": 12
+    },
+    {
+      "name": "Plum",
+      "fruitCategory": "2",
+      "id": 13
+    },
+    {
+      "name": "Peach",
+      "fruitCategory": "2",
+      "id": 14
+    },
+    {
+      "name": "Zammir",
+      "fruitCategory": "2",
+      "id": 15
+    },
+    {
+      "name": "Theiherawt",
+      "fruitCategory": "2",
+      "id": 16
+    },
+    {
+      "name": "Sertawk",
+      "fruitCategory": "2",
+      "id": 17
+    },
+    {
+      "name": "Dragonfruit",
+      "fruitCategory": "3",
+      "id": 18
+    },
+    {
+      "name": "Litchi (Theifeimung)",
+      "fruitCategory": "4",
+      "id": 19
+    },
+    {
+      "name": "Butter Fruit",
+      "fruitCategory": "4",
+      "id": 20
+    },
+    {
+      "name": "Zawngtah",
+      "fruitCategory": "4",
+      "id": 21
+    },
+    {
+      "name": "Mango",
+      "fruitCategory": "4",
+      "id": 22
+    }
+  ],
+  "VEGETABLE_CROP_SLAB": [
+    {
+      "upto45cm": {
+        "planted": "60",
+        "natural": "30"
+      },
+      "from45cmto1_0meter": {
+        "planted": "80",
+        "natural": "60"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "120",
+        "natural": "90"
+      },
+      "above1_5meter": {
+        "planted": "600",
+        "natural": "300"
+      },
+      "mature": "4000",
+      "id": 1
+    },
+    {
+      "upto45cm": {
+        "planted": "5",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "10",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "12",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "30",
+        "natural": "0"
+      },
+      "mature": "50",
+      "id": 2
+    },
+    {
+      "upto45cm": {
+        "planted": "5",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "7",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "20",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "30",
+        "natural": "0"
+      },
+      "mature": "150",
+      "id": 3
+    },
+    {
+      "upto45cm": {
+        "planted": "10",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "20",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "50",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "100",
+        "natural": "0"
+      },
+      "mature": "4000",
+      "id": 4
+    },
+    {
+      "upto45cm": {
+        "planted": "5",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "7",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "12",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "20",
+        "natural": "0"
+      },
+      "mature": "200",
+      "id": 5
+    },
+    {
+      "upto45cm": {
+        "planted": "4",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "8",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "20",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "160",
+        "natural": "0"
+      },
+      "mature": "400",
+      "id": 6
+    },
+    {
+      "upto45cm": {
+        "planted": "6",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "8",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "12",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "15",
+        "natural": "0"
+      },
+      "mature": "20",
+      "id": 7
+    },
+    {
+      "upto45cm": {
+        "planted": "6",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "8",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "12",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "25",
+        "natural": "0"
+      },
+      "mature": "100",
+      "id": 8
+    },
+    {
+      "upto45cm": {
+        "planted": "8",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "10",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "15",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "30",
+        "natural": "0"
+      },
+      "mature": "40",
+      "id": 9
+    },
+    {
+      "upto45cm": {
+        "planted": "10",
+        "natural": "5"
+      },
+      "from45cmto1_0meter": {
+        "planted": "25",
+        "natural": "12"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "30",
+        "natural": "15"
+      },
+      "above1_5meter": {
+        "planted": "85",
+        "natural": "50"
+      },
+      "mature": "300",
+      "id": 10
+    },
+    {
+      "upto45cm": {
+        "planted": "5",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "8",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "40",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "80",
+        "natural": "0"
+      },
+      "mature": "120",
+      "id": 11
+    },
+    {
+      "upto45cm": {
+        "planted": "10",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "20",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "30",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "100",
+        "natural": "0"
+      },
+      "mature": "500",
+      "id": 12
+    },
+    {
+      "upto45cm": {
+        "planted": "2",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "4",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "6",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "8",
+        "natural": "0"
+      },
+      "mature": "10",
+      "id": 13
+    }
+  ],
+  "VEGETABLE_CROP": [
+    {
+      "name": "Khanghu",
+      "vegetableCategory": "1",
+      "id": 1
+    },
+    {
+      "name": "Thing",
+      "vegetableCategory": "1",
+      "id": 2
+    },
+    {
+      "name": "Ankhapui",
+      "vegetableCategory": "1",
+      "id": 3
+    },
+    {
+      "name": "Kawhtebel",
+      "vegetableCategory": "1",
+      "id": 4
+    },
+    {
+      "name": "Buarpuichempai",
+      "vegetableCategory": "1",
+      "id": 5
+    },
+    {
+      "name": "Sugarcane (Fu)",
+      "vegetableCategory": "2",
+      "id": 6
+    },
+    {
+      "name": "Bawrhsaiabe",
+      "vegetableCategory": "3",
+      "id": 7
+    },
+    {
+      "name": "Samtawk",
+      "vegetableCategory": "3",
+      "id": 8
+    },
+    {
+      "name": "Bawkbawn",
+      "vegetableCategory": "3",
+      "id": 9
+    },
+    {
+      "name": "Satinrem",
+      "vegetableCategory": "3",
+      "id": 10
+    },
+    {
+      "name": "Maitamtawk",
+      "vegetableCategory": "4",
+      "id": 11
+    },
+    {
+      "name": "Tomato",
+      "vegetableCategory": "5",
+      "id": 12
+    },
+    {
+      "name": "Hmarcha",
+      "vegetableCategory": "5",
+      "id": 13
+    },
+    {
+      "name": "Mai",
+      "vegetableCategory": "6",
+      "id": 14
+    },
+    {
+      "name": "Maipawl",
+      "vegetableCategory": "6",
+      "id": 15
+    },
+    {
+      "name": "Berul",
+      "vegetableCategory": "6",
+      "id": 16
+    },
+    {
+      "name": "Um ei",
+      "vegetableCategory": "6",
+      "id": 17
+    },
+    {
+      "name": "Changkha",
+      "vegetableCategory": "6",
+      "id": 18
+    },
+    {
+      "name": "Fanghma",
+      "vegetableCategory": "6",
+      "id": 19
+    },
+    {
+      "name": "Dawnfawh",
+      "vegetableCategory": "6",
+      "id": 20
+    },
+    {
+      "name": "Katchu",
+      "vegetableCategory": "7",
+      "id": 21
+    },
+    {
+      "name": "Kawlbahra/Bahra",
+      "vegetableCategory": "7",
+      "id": 22
+    },
+    {
+      "name": "Pangal",
+      "vegetableCategory": "7",
+      "id": 23
+    },
+    {
+      "name": "Turnip",
+      "vegetableCategory": "7",
+      "id": 24
+    },
+    {
+      "name": "Carrot",
+      "vegetableCategory": "7",
+      "id": 25
+    },
+    {
+      "name": "Knolkhol",
+      "vegetableCategory": "7",
+      "id": 26
+    },
+    {
+      "name": "Beet",
+      "vegetableCategory": "7",
+      "id": 27
+    },
+    {
+      "name": "Antam",
+      "vegetableCategory": "7",
+      "id": 28
+    },
+    {
+      "name": "Alu",
+      "vegetableCategory": "7",
+      "id": 29
+    },
+    {
+      "name": "Sawhthing",
+      "vegetableCategory": "7",
+      "id": 30
+    },
+    {
+      "name": "Ailaidum",
+      "vegetableCategory": "7",
+      "id": 31
+    },
+    {
+      "name": "Purunvar/Purunsen",
+      "vegetableCategory": "7",
+      "id": 32
+    },
+    {
+      "name": "Zikhlum",
+      "vegetableCategory": "8",
+      "id": 33
+    },
+    {
+      "name": "Parbawr",
+      "vegetableCategory": "8",
+      "id": 34
+    },
+    {
+      "name": "Broccoli",
+      "vegetableCategory": "8",
+      "id": 35
+    },
+    {
+      "name": "Vaimim",
+      "vegetableCategory": "9",
+      "id": 36
+    },
+    {
+      "name": "Chhawhchhi",
+      "vegetableCategory": "9",
+      "id": 37
+    },
+    {
+      "name": "Behliang",
+      "vegetableCategory": "9",
+      "id": 38
+    },
+    {
+      "name": "Anthur",
+      "vegetableCategory": "9",
+      "id": 39
+    },
+    {
+      "name": "Phuihnam",
+      "vegetableCategory": "10",
+      "id": 40
+    },
+    {
+      "name": "Chingit",
+      "vegetableCategory": "10",
+      "id": 41
+    },
+    {
+      "name": "Bean",
+      "vegetableCategory": "11",
+      "id": 42
+    },
+    {
+      "name": "Bete",
+      "vegetableCategory": "11",
+      "id": 43
+    },
+    {
+      "name": "Bekang",
+      "vegetableCategory": "11",
+      "id": 44
+    },
+    {
+      "name": "Bepui",
+      "vegetableCategory": "11",
+      "id": 45
+    },
+    {
+      "name": "Chana",
+      "vegetableCategory": "11",
+      "id": 46
+    },
+    {
+      "name": "Bepuipawr/Bepuithlanei",
+      "vegetableCategory": "11",
+      "id": 47
+    },
+    {
+      "name": "Iskut",
+      "vegetableCategory": "12",
+      "id": 48
+    },
+    {
+      "name": "Any other vegetable crop not mentioned above",
+      "vegetableCategory": "13",
+      "id": 49
+    }
+  ],
+  "PLANTATION_CROP": [
+    {
+      "nameMizo": "Herhse",
+      "commonName": "Nahor, Nageswar",
+      "botanicalName": "Mesua ferrea",
+      "plantationCategory": "15",
+      "id": 1
+    },
+    {
+      "nameMizo": "Tlawr/Teak",
+      "commonName": "Teak",
+      "botanicalName": "Tectona grandis",
+      "plantationCategory": "15",
+      "id": 2
+    },
+    {
+      "nameMizo": "Thinguk",
+      "commonName": "Pyinkado",
+      "botanicalName": "Xylia dolabriformis",
+      "plantationCategory": "15",
+      "id": 3
+    },
+    {
+      "nameMizo": "Ngiau hnah hlai",
+      "commonName": "Champ, Tita-sopa",
+      "botanicalName": "Michelia champaca",
+      "plantationCategory": "15",
+      "id": 4
+    },
+    {
+      "nameMizo": "Lungli",
+      "commonName": "Bol-kimbu",
+      "botanicalName": "Morus macroura",
+      "plantationCategory": "15",
+      "id": 5
+    },
+    {
+      "nameMizo": "Zawngtei",
+      "commonName": "Chickrassy, Bongapoma",
+      "botanicalName": "Chukrasia tabularis",
+      "plantationCategory": "15",
+      "id": 6
+    },
+    {
+      "nameMizo": "Char",
+      "commonName": "Hollock",
+      "botanicalName": "Terminalict myriocarpa",
+      "plantationCategory": "15",
+      "id": 7
+    },
+    {
+      "nameMizo": "Lungkhup",
+      "commonName": "Haldu",
+      "botanicalName": "Adina cordifolia",
+      "plantationCategory": "15",
+      "id": 8
+    },
+    {
+      "nameMizo": "Lawngthing",
+      "commonName": "Gurjan",
+      "botanicalName": "Dipterocarpus turbinatus",
+      "plantationCategory": "15",
+      "id": 9
+    },
+    {
+      "nameMizo": "Lawithing",
+      "commonName": "Khai",
+      "botanicalName": "Acacia catechu",
+      "plantationCategory": "16",
+      "id": 10
+    },
+    {
+      "nameMizo": "Sahatah",
+      "commonName": "Amoora",
+      "botanicalName": "Amoora wallichii",
+      "plantationCategory": "16",
+      "id": 11
+    },
+    {
+      "nameMizo": "Tatkawng",
+      "commonName": "Cahlash",
+      "botanicalName": "Artocarpus chaplasha",
+      "plantationCategory": "16",
+      "id": 12
+    },
+    {
+      "nameMizo": "Tufar",
+      "commonName": "",
+      "botanicalName": "Cephalotaxus griphithii",
+      "plantationCategory": "16",
+      "id": 13
+    },
+    {
+      "nameMizo": "Saper",
+      "commonName": "Mala giri",
+      "botanicalName": "Cephalotaxus cecicodaphne",
+      "plantationCategory": "16",
+      "id": 14
+    },
+    {
+      "nameMizo": "Khiangzo",
+      "commonName": "Rahu, Gonser",
+      "botanicalName": "Cinnamonmum glanduliferum",
+      "plantationCategory": "16",
+      "id": 15
+    },
+    {
+      "nameMizo": "Thingsen",
+      "commonName": "Hollong",
+      "botanicalName": "Dipterocarpus macrocarpus",
+      "plantationCategory": "16",
+      "id": 16
+    },
+    {
+      "nameMizo": "Thlanvawng",
+      "commonName": "Gomari",
+      "botanicalName": "Gmelina arborea",
+      "plantationCategory": "16",
+      "id": 17
+    },
+    {
+      "nameMizo": "Vawngthla",
+      "commonName": "",
+      "botanicalName": "Gmelina oblongifolia",
+      "plantationCategory": "16",
+      "id": 18
+    },
+    {
+      "nameMizo": "Khawkherh",
+      "commonName": "Walnut, Akhrot",
+      "botanicalName": "Juglans regia",
+      "plantationCategory": "16",
+      "id": 19
+    },
+    {
+      "nameMizo": "Zongiau",
+      "commonName": "Champ, Safedchamp",
+      "botanicalName": "Michelia doltsopa",
+      "plantationCategory": "16",
+      "id": 20
+    },
+    {
+      "nameMizo": "Ngiau",
+      "commonName": "Kothal-sopa, Bor-sopa",
+      "botanicalName": "Michelia oblonga",
+      "plantationCategory": "16",
+      "id": 21
+    },
+    {
+      "nameMizo": "Buleng/Zobul",
+      "commonName": "Bonsum",
+      "botanicalName": "Phoebe haineshana",
+      "plantationCategory": "16",
+      "id": 22
+    },
+    {
+      "nameMizo": "Tufar/Thlangfar",
+      "commonName": "Gunsi",
+      "botanicalName": "Podocarpus nerifolia",
+      "plantationCategory": "16",
+      "id": 23
+    },
+    {
+      "nameMizo": "Salthing/Chim",
+      "commonName": "Sal/Chim",
+      "botanicalName": "Hsorea robusta",
+      "plantationCategory": "16",
+      "id": 24
+    },
+    {
+      "nameMizo": "Khawreng-far",
+      "commonName": "Yew.V",
+      "botanicalName": "Taxus baccata",
+      "plantationCategory": "16",
+      "id": 25
+    },
+    {
+      "nameMizo": "Thlado",
+      "commonName": "Jarul",
+      "botanicalName": "Lagerstroemia speciosa",
+      "plantationCategory": "16",
+      "id": 26
+    },
+    {
+      "nameMizo": "Bul Tei/Teipui",
+      "commonName": "Bonsum",
+      "botanicalName": "Phoebe attenuata",
+      "plantationCategory": "16",
+      "id": 27
+    },
+    {
+      "nameMizo": "Tei/Teipui",
+      "commonName": "Toon/Poma",
+      "botanicalName": "Toona ciliata",
+      "plantationCategory": "16",
+      "id": 28
+    },
+    {
+      "nameMizo": "Pualeng",
+      "commonName": "Haludsapa",
+      "botanicalName": "Mahonia borealis",
+      "plantationCategory": "16",
+      "id": 29
+    },
+    {
+      "nameMizo": "Thingri",
+      "commonName": "Kala-siris",
+      "botanicalName": "Albizzia lebbeck",
+      "plantationCategory": "16",
+      "id": 30
+    },
+    {
+      "nameMizo": "Bulpui",
+      "commonName": "Makhai",
+      "botanicalName": "Alseodophne petiolaris",
+      "plantationCategory": "16",
+      "id": 31
+    },
+    {
+      "nameMizo": "Far",
+      "commonName": "Khasi Pine",
+      "botanicalName": "Pinus kesiya",
+      "plantationCategory": "16",
+      "id": 32
+    },
+    {
+      "nameMizo": "Reraw",
+      "commonName": "Myrobalan, Mariraki",
+      "botanicalName": "Terminalia chebula",
+      "plantationCategory": "16",
+      "id": 33
+    },
+    {
+      "nameMizo": "Thingri chi",
+      "commonName": "",
+      "botanicalName": "Albizzia spp.",
+      "plantationCategory": "17",
+      "id": 34
+    },
+    {
+      "nameMizo": "Buan",
+      "commonName": "Jath-undi",
+      "botanicalName": "Alseodaphne owdenii",
+      "plantationCategory": "17",
+      "id": 35
+    },
+    {
+      "nameMizo": "Lamkhuang",
+      "commonName": "Jack-fruit, Kathal",
+      "botanicalName": "Artocarpus heterophyllus",
+      "plantationCategory": "17",
+      "id": 36
+    },
+    {
+      "nameMizo": "Theitat",
+      "commonName": "Lakooch, Deophal",
+      "botanicalName": "Artocarpus lakoocha",
+      "plantationCategory": "17",
+      "id": 37
+    },
+    {
+      "nameMizo": "Khuangthli",
+      "commonName": "Uriam, Bishop wood",
+      "botanicalName": "Bischofia javanica",
+      "plantationCategory": "17",
+      "id": 38
+    },
+    {
+      "nameMizo": "Lenglang",
+      "commonName": "Genti",
+      "botanicalName": "Beohmeria rugolosa",
+      "plantationCategory": "17",
+      "id": 39
+    },
+    {
+      "nameMizo": "Thingphaktel",
+      "commonName": "Kasi",
+      "botanicalName": "Bridelia squamosa",
+      "plantationCategory": "17",
+      "id": 40
+    },
+    {
+      "nameMizo": "Sahatahpui",
+      "commonName": "Bauri phal",
+      "botanicalName": "Chisocheton paniculatus",
+      "plantationCategory": "17",
+      "id": 41
+    },
+    {
+      "nameMizo": "Hnahrimtui",
+      "commonName": "Tejpata",
+      "botanicalName": "Cinnamomum tamala",
+      "plantationCategory": "17",
+      "id": 42
+    },
+    {
+      "nameMizo": "Sahatah",
+      "commonName": "Rata",
+      "botanicalName": "Dysoxylum binectariferum",
+      "plantationCategory": "17",
+      "id": 43
+    },
+    {
+      "nameMizo": "Thingsaphu",
+      "commonName": "Gendhili-poma",
+      "botanicalName": "Dysoxylum hamiltonii",
+      "plantationCategory": "17",
+      "id": 44
+    },
+    {
+      "nameMizo": "Thingthupui",
+      "commonName": "Lai, Lusuni",
+      "botanicalName": "Dysoxylum procerum",
+      "plantationCategory": "17",
+      "id": 45
+    },
+    {
+      "nameMizo": "Thinglamkhuang",
+      "commonName": "Kathal patia sopa",
+      "botanicalName": "Pachylarnax pleiocarpa",
+      "plantationCategory": "17",
+      "id": 46
+    },
+    {
+      "nameMizo": "Zuang",
+      "commonName": "Lampati, Ramdala",
+      "botanicalName": "Duabanga grandiflora",
+      "plantationCategory": "17",
+      "id": 47
+    },
+    {
+      "nameMizo": "Bungbutuairam",
+      "commonName": "Thotmela",
+      "botanicalName": "Garuga pinnata",
+      "plantationCategory": "17",
+      "id": 48
+    },
+    {
+      "nameMizo": "Reraw",
+      "commonName": "Hilika, Hartaki",
+      "botanicalName": "Terminalia citrina",
+      "plantationCategory": "17",
+      "id": 49
+    },
+    {
+      "nameMizo": "Hriangpui",
+      "commonName": "Biroh",
+      "botanicalName": "Betula alnoides",
+      "plantationCategory": "17",
+      "id": 50
+    },
+    {
+      "nameMizo": "Hriangzau",
+      "commonName": "Saur",
+      "botanicalName": "Betula cylindrostachys",
+      "plantationCategory": "17",
+      "id": 51
+    },
+    {
+      "nameMizo": "Beraw",
+      "commonName": "Gokuldhup",
+      "botanicalName": "Canarium resinferum",
+      "plantationCategory": "17",
+      "id": 52
+    },
+    {
+      "nameMizo": "Hnaibung",
+      "commonName": "Kuta, Tali",
+      "botanicalName": "Palaguium polyanthum",
+      "plantationCategory": "17",
+      "id": 53
+    },
+    {
+      "nameMizo": "Khiangzo",
+      "commonName": "Dieng-an",
+      "botanicalName": "Schima khasiana",
+      "plantationCategory": "17",
+      "id": 54
+    },
+    {
+      "nameMizo": "All other timbers",
+      "commonName": "All other timbers",
+      "botanicalName": "",
+      "plantationCategory": "18",
+      "id": 55
+    },
+    {
+      "nameMizo": "Thingpui",
+      "commonName": "Tea",
+      "botanicalName": "Camellia sinensis",
+      "plantationCategory": "1",
+      "id": 56
+    },
+    {
+      "nameMizo": "Coffee",
+      "commonName": "Arabica",
+      "botanicalName": "Coffea arabica",
+      "plantationCategory": "1",
+      "id": 57
+    },
+    {
+      "nameMizo": "Coconut",
+      "commonName": "",
+      "botanicalName": "Cocos nucifera",
+      "plantationCategory": "3",
+      "id": 58
+    },
+    {
+      "nameMizo": "Kuhva",
+      "commonName": "Areacanut",
+      "botanicalName": "Areca catechu",
+      "plantationCategory": "3",
+      "id": 59
+    },
+    {
+      "nameMizo": "Oil Palm",
+      "commonName": "",
+      "botanicalName": "Elaeis guineensis",
+      "plantationCategory": "4",
+      "id": 60
+    },
+    {
+      "nameMizo": "Panhnah",
+      "commonName": "Betel leaf",
+      "botanicalName": "Piper betle",
+      "plantationCategory": "5",
+      "id": 61
+    },
+    {
+      "nameMizo": "La",
+      "commonName": "Cotton",
+      "botanicalName": "",
+      "plantationCategory": "2",
+      "id": 62
+    },
+    {
+      "nameMizo": "Phulrua",
+      "commonName": "Bamboo",
+      "botanicalName": "",
+      "plantationCategory": "6",
+      "id": 63
+    },
+    {
+      "nameMizo": "Vairua",
+      "commonName": "Bamboo",
+      "botanicalName": "",
+      "plantationCategory": "6",
+      "id": 64
+    },
+    {
+      "nameMizo": "Rawnal",
+      "commonName": "Bamboo",
+      "botanicalName": "",
+      "plantationCategory": "7",
+      "id": 65
+    },
+    {
+      "nameMizo": "Rawthing",
+      "commonName": "Bamboo",
+      "botanicalName": "",
+      "plantationCategory": "7",
+      "id": 66
+    },
+    {
+      "nameMizo": "Mautak",
+      "commonName": "Bamboo",
+      "botanicalName": "",
+      "plantationCategory": "8",
+      "id": 67
+    },
+    {
+      "nameMizo": "Rawthla",
+      "commonName": "Bamboo",
+      "botanicalName": "",
+      "plantationCategory": "8",
+      "id": 68
+    },
+    {
+      "nameMizo": "Brandisii",
+      "commonName": "Exotic Bamboo",
+      "botanicalName": "",
+      "plantationCategory": "9",
+      "id": 69
+    },
+    {
+      "nameMizo": "Latiflorus",
+      "commonName": "Exotic Bamboo",
+      "botanicalName": "",
+      "plantationCategory": "9",
+      "id": 70
+    },
+    {
+      "nameMizo": "Other Exotic Bamboo",
+      "commonName": "Exotic Bamboo",
+      "botanicalName": "",
+      "plantationCategory": "9",
+      "id": 71
+    },
+    {
+      "nameMizo": "Hmunphiah",
+      "commonName": "Broom",
+      "botanicalName": "Thysanolaena latifolia",
+      "plantationCategory": "10",
+      "id": 72
+    },
+    {
+      "nameMizo": "Kang damdawi",
+      "commonName": "Jatropha",
+      "botanicalName": "",
+      "plantationCategory": "11",
+      "id": 73
+    },
+    {
+      "nameMizo": "Aloevera",
+      "commonName": "Aloevera",
+      "botanicalName": "Aloe barbadensis miller",
+      "plantationCategory": "12",
+      "id": 74
+    },
+    {
+      "nameMizo": "Rubber seedling/budded",
+      "commonName": "",
+      "botanicalName": "",
+      "plantationCategory": "13",
+      "id": 75
+    },
+    {
+      "nameMizo": "Thingrai",
+      "commonName": "Agarwood",
+      "botanicalName": "Aquilaria agallocha",
+      "plantationCategory": "14",
+      "id": 76
+    },
+    {
+      "nameMizo": "Sandal thing",
+      "commonName": "Saldal wood",
+      "botanicalName": "Santalum album",
+      "plantationCategory": "14",
+      "id": 77
+    },
+    {
+      "nameMizo": "Sander thingsen",
+      "commonName": "Red Sander",
+      "botanicalName": "Pterocarpus santalimus",
+      "plantationCategory": "14",
+      "id": 78
+    },
+    {
+      "nameMizo": "Rosewood",
+      "commonName": "",
+      "botanicalName": "Dalbergia sissoo",
+      "plantationCategory": "14",
+      "id": 79
+    },
+    {
+      "nameMizo": "Bul",
+      "commonName": "Som",
+      "botanicalName": "",
+      "plantationCategory": "19",
+      "id": 80
+    },
+    {
+      "nameMizo": "Nauthak",
+      "commonName": "Soalu",
+      "botanicalName": "",
+      "plantationCategory": "19",
+      "id": 81
+    },
+    {
+      "nameMizo": "Sasaw thing",
+      "commonName": "Oak tree",
+      "botanicalName": "",
+      "plantationCategory": "20",
+      "id": 82
+    },
+    {
+      "nameMizo": "Thingtheihmu",
+      "commonName": "Mulberry",
+      "botanicalName": "",
+      "plantationCategory": "21",
+      "id": 83
+    },
+    {
+      "nameMizo": "Changkhen",
+      "commonName": "Kesseru",
+      "botanicalName": "",
+      "plantationCategory": "22",
+      "id": 84
+    },
+    {
+      "nameMizo": "Muthi",
+      "commonName": "Castor",
+      "botanicalName": "",
+      "plantationCategory": "22",
+      "id": 85
+    }
+  ],
+  "PLANTATION_CROP_SLAB": [
+    {
+      "upto45cm": {
+        "planted": "80",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "160",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "240",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "320",
+        "natural": "0"
+      },
+      "mature": "5860",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 1
+    },
+    {
+      "upto45cm": {
+        "planted": "6",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "8",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "15",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "30",
+        "natural": "0"
+      },
+      "mature": "40",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 2
+    },
+    {
+      "upto45cm": {
+        "planted": "110",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "190",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "270",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "800",
+        "natural": "0"
+      },
+      "mature": "10000",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 3
+    },
+    {
+      "upto45cm": {
+        "planted": "200",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "300",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "500",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "800",
+        "natural": "0"
+      },
+      "mature": "9500",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 4
+    },
+    {
+      "upto45cm": {
+        "planted": "10",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "25",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "40",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "150",
+        "natural": "0"
+      },
+      "mature": "4000",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 5
+    },
+    {
+      "upto45cm": {
+        "planted": "20",
+        "natural": "10"
+      },
+      "from45cmto1_0meter": {
+        "planted": "35",
+        "natural": "25"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "60",
+        "natural": "35"
+      },
+      "above1_5meter": {
+        "planted": "85",
+        "natural": "60"
+      },
+      "mature": "3000",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 6
+    },
+    {
+      "upto45cm": {
+        "planted": "13",
+        "natural": "6"
+      },
+      "from45cmto1_0meter": {
+        "planted": "25",
+        "natural": "13"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "50",
+        "natural": "30"
+      },
+      "above1_5meter": {
+        "planted": "75",
+        "natural": "50"
+      },
+      "mature": "500",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 7
+    },
+    {
+      "upto45cm": {
+        "planted": "6",
+        "natural": "5"
+      },
+      "from45cmto1_0meter": {
+        "planted": "13",
+        "natural": "6"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "25",
+        "natural": "13"
+      },
+      "above1_5meter": {
+        "planted": "35",
+        "natural": "25"
+      },
+      "mature": "95",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 8
+    },
+    {
+      "upto45cm": {
+        "planted": "80",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "120",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "200",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "500",
+        "natural": "0"
+      },
+      "mature": "5000",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 9
+    },
+    {
+      "upto45cm": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "mature": "2.5",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 10
+    },
+    {
+      "upto45cm": {
+        "planted": "5",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "10",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "30",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "50",
+        "natural": "0"
+      },
+      "mature": "500",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 11
+    },
+    {
+      "upto45cm": {
+        "planted": "5",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "10",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "30",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "50",
+        "natural": "0"
+      },
+      "mature": "500",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 12
+    },
+    {
+      "upto45cm": {
+        "planted": "170",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "250",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "330",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "1330",
+        "natural": "0"
+      },
+      "mature": "10000",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 13
+    },
+    {
+      "upto45cm": {
+        "planted": "30",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "120",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "400",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "mature": "0",
+      "above1_5meter_with_girth": {
+        "planted": "6000",
+        "natural": "6000"
+      },
+      "id": 14
+    },
+    {
+      "upto45cm": {
+        "planted": "60",
+        "natural": "40"
+      },
+      "from45cmto1_0meter": {
+        "planted": "110",
+        "natural": "80"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "180",
+        "natural": "150"
+      },
+      "above1_5meter": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "mature": "0",
+      "above1_5meter_with_girth": {
+        "planted": "1",
+        "natural": "1"
+      },
+      "id": 15
+    },
+    {
+      "upto45cm": {
+        "planted": "50",
+        "natural": "30"
+      },
+      "from45cmto1_0meter": {
+        "planted": "90",
+        "natural": "60"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "140",
+        "natural": "120"
+      },
+      "above1_5meter": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "mature": "0",
+      "above1_5meter_with_girth": {
+        "planted": "1",
+        "natural": "1"
+      },
+      "id": 16
+    },
+    {
+      "upto45cm": {
+        "planted": "30",
+        "natural": "20"
+      },
+      "from45cmto1_0meter": {
+        "planted": "60",
+        "natural": "40"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "120",
+        "natural": "100"
+      },
+      "above1_5meter": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "mature": "0",
+      "above1_5meter_with_girth": {
+        "planted": "1",
+        "natural": "1"
+      },
+      "id": 17
+    },
+    {
+      "upto45cm": {
+        "planted": "20",
+        "natural": "15"
+      },
+      "from45cmto1_0meter": {
+        "planted": "40",
+        "natural": "20"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "80",
+        "natural": "60"
+      },
+      "above1_5meter": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "mature": "0",
+      "above1_5meter_with_girth": {
+        "planted": "1",
+        "natural": "1"
+      },
+      "id": 18
+    },
+    {
+      "upto45cm": {
+        "planted": "100",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "140",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "250",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "500",
+        "natural": "0"
+      },
+      "mature": "8060",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 19
+    },
+    {
+      "upto45cm": {
+        "planted": "100",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "140",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "250",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "500",
+        "natural": "0"
+      },
+      "mature": "8060",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 20
+    },
+    {
+      "upto45cm": {
+        "planted": "30",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "90",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "3561",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "3561",
+        "natural": "0"
+      },
+      "mature": "3561",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 21
+    },
+    {
+      "upto45cm": {
+        "planted": "50",
+        "natural": "0"
+      },
+      "from45cmto1_0meter": {
+        "planted": "120",
+        "natural": "0"
+      },
+      "from1_0meterto1_5meter": {
+        "planted": "190",
+        "natural": "0"
+      },
+      "above1_5meter": {
+        "planted": "3572",
+        "natural": "0"
+      },
+      "mature": "3572",
+      "above1_5meter_with_girth": {
+        "planted": "0",
+        "natural": "0"
+      },
+      "id": 22
+    }
+  ],
+  "BUILDINGS": [
+    {
+      "items": "Cattle shed, Poultry Shed or any other shed for domestic animals, with thatch roofing",
+      "rate": "1650",
+      "id": 1
+    },
+    {
+      "items": "Cattle shed, Poultry Shed or any other shed for domestic animals, with GCI sheet roofing",
+      "rate": "2750",
+      "id": 2
+    },
+    {
+      "items": "Ordinary Mizo House, Mud floor, with thatch roofing",
+      "rate": "2750",
+      "id": 3
+    },
+    {
+      "items": "Ordinary Mizo House with bamboo floor elevated from ground, double turja walling, and thatch roofing",
+      "rate": "3300",
+      "id": 4
+    },
+    {
+      "items": "Ordinary Mizo House with Plank Floor, double Turja walling, thatch roofing with hardwood post below floor level driven below ground jointed with sawn timber post.",
+      "rate": "5500",
+      "id": 5
+    },
+    {
+      "items": "Ordinary Mizo House with Plank Floor, GCI sheet roof Turja walling, hardwood post below floor level driven below ground jointed by iron flat with sawn timber.",
+      "rate": "7700",
+      "id": 6
+    },
+    {
+      "items": "Mizo type building plank floor with hardwood post jointed with flat iron with sawn timber post driven below the ground jointed by flat iron with GCI sheet roofing AC sheet walling or plain sheet walling.",
+      "rate": "8800",
+      "id": 7
+    },
+    {
+      "items": "Mizo type building plank floor with hardwood post driven below the ground jointed by flat iron with sawn timber post, AC sheet walling, GCI sheet roof with AC sheet/plain sheet/bamboo ceiling and full panelling of inside wall with AC sheet, plywood, etc.",
+      "rate": "May be assessed as per MPWD's Schedule of Rates and latest Cost Indices.",
+      "id": 8
+    },
+    {
+      "items": "Pucca building with CC floor, with cement structure, brick/GCI sheet walling upto skirting, AC sheet wall GCI sheet roof, AC ceiling.",
+      "rate": "May be assessed as per MPWD's Schedule of Rates and latest Cost Indices.",
+      "id": 9
+    },
+    {
+      "items": "Building with RCC superstructure, plank floor AC sheet walling GCI sheet roof, AC ceiling",
+      "rate": "May be assessed as per MPWD's Schedule of Rates and latest Cost Indices.",
+      "id": 10
+    },
+    {
+      "items": "RCC buildings and other structures",
+      "rate": "May be assessed as per MPWD's Schedule of Rates and latest Cost Indices.",
+      "id": 11
+    }
+  ],
+  "GRAVE_MEMORIAL_STONE": [
+    {
+      "types": "Grave with memorial stone (natural stone slab)",
+      "rate": "33000",
+      "solatium": "10000",
+      "id": 1
+    },
+    {
+      "types": "Grave with RCC memorial stone",
+      "rate": "38500",
+      "solatium": "10000",
+      "id": 2
+    },
+    {
+      "types": "Grave with memorial slab",
+      "rate": "38500",
+      "solatium": "10000",
+      "id": 3
+    },
+    {
+      "types": "Grave without memorial stone",
+      "rate": "19800",
+      "solatium": "10000",
+      "id": 4
+    },
+    {
+      "types": "Memorial stone",
+      "rate": "16500",
+      "solatium": "10000",
+      "id": 5
+    },
+    {
+      "types": "Grave with memorial stone with slab",
+      "rate": "33000",
+      "solatium": "10000",
+      "id": 6
+    },
+    {
+      "types": "Grave with memorial stone with engraving",
+      "rate": "33000",
+      "solatium": "10000",
+      "id": 7
+    },
+    {
+      "types": "Grave with granite memorial stone",
+      "rate": "49500",
+      "solatium": "10000",
+      "id": 8
+    },
+    {
+      "types": "Pyramid Phura engraving",
+      "rate": "66000",
+      "solatium": "10000",
+      "id": 9
+    }
+  ],
+  "PADDY_CULTIVATION": [
+    {
+      "types": "Paddy in jhum",
+      "average": "250",
+      "rate": "240",
+      "recommended": "60000",
+      "id": 1
+    },
+    {
+      "types": "Paddy in Dry Terrace",
+      "average": "300",
+      "rate": "240",
+      "recommended": "72000",
+      "id": 2
+    },
+    {
+      "types": "Paddy in WRC land with fully developed irrigation facility",
+      "average": "600",
+      "rate": "240",
+      "recommended": "144000",
+      "id": 3
+    }
+  ],
+  "LAND_DEVELOPMENT": [
+    {
+      "level": "Where only jungle clearance is completed in any type of land for cultivation of crops.",
+      "rate": "9520",
+      "id": 1
+    },
+    {
+      "level": "Where after Sl. No 1 up to levelling of terracing including uprooting and removal of stones and stumps is completed.",
+      "rate": "63664",
+      "id": 2
+    },
+    {
+      "level": "Where after Sl. No 2 upto layout with bunds is completed for WRC or DTC.",
+      "rate": "75209",
+      "id": 3
+    },
+    {
+      "level": "Where after Sl. No 3 the land is tilled and ploughed",
+      "rate": "75209",
+      "id": 4
+    },
+    {
+      "level": "Cost of irrigation facilities are put in place",
+      "rate": "To be assessed as per MPWD scheduled of rates and latest cost",
+      "id": 5
+    }
+  ]
+}
