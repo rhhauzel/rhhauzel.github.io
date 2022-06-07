@@ -1,0 +1,276 @@
+{
+  "master": [
+    {
+      "pawlhming": "Thlanmual",
+      "id": 1
+    },
+    {
+      "pawlhming": "Daifim",
+      "id": 2
+    },
+    {
+      "pawlhming": "Property",
+      "id": 3
+    },
+    {
+      "pawlhming": "FLS",
+      "id": 4
+    },
+    {
+      "pawlhming": "Sports",
+      "id": 5
+    },
+    {
+      "pawlhming": "Cultural",
+      "id": 6
+    }
+  ],
+  "membertype": [
+    {
+      "id": 1,
+      "typename": "Leader"
+    },
+    {
+      "id": 2,
+      "typename": "Asst Leader"
+    },
+    {
+      "id": 3,
+      "typename": "Chairman"
+    },
+    {
+      "id": 4,
+      "typename": "Vice Chairman"
+    },
+    {
+      "id": 5,
+      "typename": "General Secretary"
+    },
+    {
+      "id": 6,
+      "typename": "Secretary"
+    },
+    {
+      "id": 7,
+      "typename": "Asst Secretary"
+    },
+    {
+      "id": 8,
+      "typename": "Joint Secretary"
+    },
+    {
+      "id": 9,
+      "typename": "Treasurer"
+    },
+    {
+      "id": 10,
+      "typename": "Financial Secretary"
+    },
+    {
+      "id": 11,
+      "typename": "Senior Adviser"
+    },
+    {
+      "id": 12,
+      "typename": "Adviser"
+    },
+    {
+      "id": 13,
+      "typename": "Patron"
+    },
+    {
+      "id": 14,
+      "typename": "Executive Committee Member"
+    },
+    {
+      "id": 15,
+      "typename": "Committee Member"
+    },
+    {
+      "id": 16,
+      "typename": "Member"
+    }
+  ],
+  "subcom": [
+    {
+      "Hming": "HD Daniela",
+      "Phone": "8837206466",
+      "Nihna": "Chairman",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Thlanmual",
+      "id": 1
+    },
+    {
+      "Hming": "David Lalnunhlima",
+      "Phone": "7005296742",
+      "Nihna": "Secretary",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Thlanmual",
+      "id": 2
+    },
+    {
+      "Hming": "F Lalchuanawma",
+      "Phone": "",
+      "Nihna": "Member",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Thlanmual",
+      "id": 3
+    },
+    {
+      "Hming": "Vanlaltlanga",
+      "Phone": "",
+      "Nihna": "Member",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Thlanmual",
+      "id": 4
+    },
+    {
+      "Hming": "Zobiaksanga",
+      "Phone": "",
+      "Nihna": "Member",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Thlanmual",
+      "id": 5
+    },
+    {
+      "Hming": "K Pazawna",
+      "Phone": "",
+      "Nihna": "Member",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Thlanmual",
+      "id": 6
+    },
+    {
+      "Hming": "JK Luna",
+      "Phone": "",
+      "Nihna": "Member",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Thlanmual",
+      "id": 7
+    },
+    {
+      "Hming": "F Lalbiakliana",
+      "Phone": "",
+      "Nihna": "Member",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Daifim",
+      "id": 8
+    },
+    {
+      "Hming": "David Lalnunhlima",
+      "Phone": "",
+      "Nihna": "Member",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Daifim",
+      "id": 9
+    },
+    {
+      "Hming": "Ricky MS Dawngzela",
+      "Phone": "",
+      "Nihna": "Member",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Daifim",
+      "id": 10
+    },
+    {
+      "Hming": "R Lalnuntluanga",
+      "Phone": "",
+      "Nihna": "Member",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Daifim",
+      "id": 11
+    },
+    {
+      "Hming": "Laltanpuia Rengsi",
+      "Phone": "",
+      "Nihna": "Chairman",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Property",
+      "id": 12
+    },
+    {
+      "Hming": "Rodingliana",
+      "Phone": "",
+      "Nihna": "Secretary",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Property",
+      "id": 13
+    },
+    {
+      "Hming": "R Lalhmachhuana (Lca)",
+      "Phone": "",
+      "Nihna": "Member",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Property",
+      "id": 14
+    },
+    {
+      "Hming": "H Lalmuanpuia",
+      "Phone": "",
+      "Nihna": "Member",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Property",
+      "id": 15
+    },
+    {
+      "Hming": "Lalchuailova",
+      "Phone": "",
+      "Nihna": "Member",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Property",
+      "id": 16
+    },
+    {
+      "Hming": "Test1`",
+      "Phone": "",
+      "Nihna": "",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "FLS",
+      "id": 17
+    },
+    {
+      "Hming": "Test2`",
+      "Phone": "",
+      "Nihna": "",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "FLS",
+      "id": 18
+    },
+    {
+      "Hming": "Test1`",
+      "Phone": "",
+      "Nihna": "",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Cultural",
+      "id": 19
+    },
+    {
+      "Hming": "Test2`",
+      "Phone": "",
+      "Nihna": "",
+      "Photo": "nopic.png",
+      "year": "2017",
+      "subcomname": "Cultural",
+      "id": 20
+    }
+  ]
+}
